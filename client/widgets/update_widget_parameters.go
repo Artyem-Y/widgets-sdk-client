@@ -16,7 +16,7 @@ import (
 	"github.com/go-openapi/strfmt"
 	"github.com/go-openapi/swag"
 
-	"terraform-provider-hashicups-pf/models"
+	"test/widgets-sdk-client/models"
 )
 
 // NewUpdateWidgetParams creates a new UpdateWidgetParams object,

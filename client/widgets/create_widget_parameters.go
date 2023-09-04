@@ -15,7 +15,7 @@ import (
 	cr "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
 
-	"terraform-provider-hashicups-pf/models"
+	"test/widgets-sdk-client/models"
 )
 
 // NewCreateWidgetParams creates a new CreateWidgetParams object,

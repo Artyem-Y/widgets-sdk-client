@@ -12,7 +12,7 @@ import (
 	"github.com/go-openapi/runtime"
 	"github.com/go-openapi/strfmt"
 
-	"terraform-provider-hashicups-pf/models"
+	"test/widgets-sdk-client/models"
 )
 
 // GetWidgetReader is a Reader for the GetWidget structure.

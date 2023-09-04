@@ -10,7 +10,7 @@ import (
 	httptransport "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
 
-	"terraform-provider-hashicups-pf/client/widgets"
+	"test/widgets-sdk-client/client/widgets"
 )
 
 // Default widgets API HTTP client.
