@@ -12,7 +12,7 @@ import (
 	"github.com/go-openapi/runtime"
 	"github.com/go-openapi/strfmt"
 
-	"test/widgets-sdk-client/models"
+	"github.com/Artyem-Y/widgets-sdk-client/models"
 )
 
 // GetWidgetReader is a Reader for the GetWidget structure.

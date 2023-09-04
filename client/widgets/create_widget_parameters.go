@@ -15,7 +15,7 @@ import (
 	cr "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
 
-	"test/widgets-sdk-client/models"
+	"github.com/Artyem-Y/widgets-sdk-client/models"
 )
 
 // NewCreateWidgetParams creates a new CreateWidgetParams object,

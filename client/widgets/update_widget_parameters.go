@@ -16,7 +16,7 @@ import (
 	"github.com/go-openapi/strfmt"
 	"github.com/go-openapi/swag"
 
-	"test/widgets-sdk-client/models"
+	"github.com/Artyem-Y/widgets-sdk-client/models"
 )
 
 // NewUpdateWidgetParams creates a new UpdateWidgetParams object,
